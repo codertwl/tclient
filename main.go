@@ -5,7 +5,7 @@ import (
         "fmt"
 
         "google.golang.org/grpc"
-        "tserverpub/pb"
+        "github.com/codertwl/tserverpub/pb"
 )
 
 func main() {
