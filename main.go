@@ -5,7 +5,7 @@ import (
         "fmt"
 
         "google.golang.org/grpc"
-        "proto/pb"
+        "tserverpub/pb"
 )
 
 func main() {
